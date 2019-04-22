@@ -32,7 +32,8 @@ hoge
 ***
 hoge
 ---
-+ リスト
++ 箇条書き
+1. 番号付きリスト１
 
 [Google](http://www.google.co.jp/)  
 [Googleを見る][Google]
