@@ -49,4 +49,4 @@
 ***
 ###GW10日目（日）
 # 熱下がりました終わり！！！ｗ
-[寝るとウンコ漏れるし頭痛で起き上がれないんで大人しく座って作業してました](http://palette.clearrave.co.jp/product/haruiro/)
+[寝ると頭痛で起き上がれなくてウンコ漏れるんで大人しく座って作業してました](http://palette.clearrave.co.jp/product/haruiro/)
