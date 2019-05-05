@@ -22,7 +22,7 @@
 
 ### 二日目（土）
 <font color="Red">治らなかった</font>
-
+<font color="Red">テキスト</font>
 
 
 >←長男
